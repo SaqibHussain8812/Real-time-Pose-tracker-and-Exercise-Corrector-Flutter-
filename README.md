@@ -1,4 +1,4 @@
-# poseapp
+# Real Time Pose tracker
 
 A new Flutter project.
 
